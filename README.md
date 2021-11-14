@@ -9,6 +9,11 @@
 ### ต้องการเปิด
 
 #### พิมพ์ >>`npm start`
+
+# สำหรับ DEV
+##เชื่อม git
+### `git remote add origin https://github.com/62030086/covid-19-th-app.git`
+### `git push -u origin master`
  
 ## Available Scripts
 
