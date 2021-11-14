@@ -2,13 +2,13 @@
 
 ยินดีต้อนรับสู่แอปที่ดีที่สุดตลอดการ 
 
-###เมื่อ clone แล้ว
+### เมื่อ clone แล้ว
 
-####เปิด Terminal แล้วพิมพ์ >>npm install
+#### เปิด Terminal แล้วพิมพ์ >>npm install
 
-###ต้องการเปิด
+### ต้องการเปิด
 
-####พิมพ์ >>npm start
+#### พิมพ์ >>npm start
  
 ## Available Scripts
 
