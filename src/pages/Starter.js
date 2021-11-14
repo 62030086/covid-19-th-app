@@ -6,19 +6,21 @@ import logoapp from '../assets/images/logoapp.png'
 
 const { Content, Footer,  } = Layout;
 
-function Starter() {
-  return (
-    <Layout className="starter-layout" >
-          <Content>
-            <div className ="starter-logo">
-              <img src={logoapp} alt='logoapp' style = {{ height: '500px'}} />
-            </div>
-          </Content>
+class Starter extends Component {
+  render(){
+    return (
+      <Layout className="starter-layout" >
+        <Content>
+          <div className ="starter-logo">
+            <img src={logoapp} alt='logoapp' className="logoapp" />
+          </div>
+        </Content>
           <Footer>
 
           </Footer>
-        </Layout>
-      );
+      </Layout>
+    );
+  }
 }
 
 export default Starter;
